@@ -41,7 +41,3 @@ Instrucciones para realizar las pruebas
 4. Corra en programa solamente en archivo de main.py y espere que se realicen las pruebas
 
 
-
-Por mas que trate de cambiar y poner diferentes cosas la identificación de la ventana confort de manera general, no logre, lo lamento mucho ;(, pero si me indicara el como realizarlo sin arruinar el código,  lo hare con mucho gusto
-Nota de este problema: Ya quedo corregido
-•	Entiendo el punto de ingles/español, pero si traduzco el código al inglés, no encuentra los elementos de la pag de Urban, por más que ya estén indicados 
