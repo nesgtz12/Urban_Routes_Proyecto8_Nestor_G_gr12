@@ -41,8 +41,7 @@ Instrucciones para realizar las pruebas
 4. Corra en programa solamente en archivo de main.py y espere que se realicen las pruebas
 
 
-•	Nota para el auditor:
-Usar los selectores con índices, de esta forma //*[@id="root"]/div/div[3]/div[3]/div[2]/div[1]/div[6] no es muy buena práctica, ya que si se cambia el diseño en la página es probable que ya no puedas encontrar los elementos y tengas que trabajar en corregirlos. El selector que se use se recomienda que sea único, trata de utilizar más tipos de selectores como el nombre de la clase, en muchos de los casos te va a ayudar a obtener un mejor selector que utilizando índices.
+
 Por mas que trate de cambiar y poner diferentes cosas la identificación de la ventana confort de manera general, no logre, lo lamento mucho ;(, pero si me indicara el como realizarlo sin arruinar el código,  lo hare con mucho gusto
 Nota de este problema: Ya quedo corregido
 •	Entiendo el punto de ingles/español, pero si traduzco el código al inglés, no encuentra los elementos de la pag de Urban, por más que ya estén indicados 
